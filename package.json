@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/gsmlg/compile/issues"
   },
-  "homepage": "https://github.com/gsmlg/compile#readme"
+  "homepage": "https://github.com/gsmlg/compile#readme",
+  "devDependencies": {
+    "jest": "^26.1.0"
+  }
 }
